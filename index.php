@@ -89,6 +89,17 @@
             </div>
           </div>
 
+          <div class="plp-seo-text products-list-page__seo-text products-list-page__seo-text--top">
+            <div class="plp-seo-text__content">
+              The large sports range for women by FALKE includes functional sports socks tailored to the needs
+              of various sports, such as running, biking, hiking, playing tennis, golfing and skiing, but matching
+              outerwear and functional underwear should also not be missing. The functionality, high-quality
+              materials, fashionable cuts and bright colours will convince you. This way, you are not only
+              optimally dressed for your sporting activities at various levels of performance in the summer
+              and winter, you can also enjoy the great wearing comfort during leisure time.</div>
+            <span class="plp-seo-text__toggle-button">more</span>
+          </div>
+
         </div>
       </div>
     </div>
