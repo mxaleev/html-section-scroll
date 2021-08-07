@@ -4,7 +4,15 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Bootstrap CSS -->
+
+  <link rel="preload" href="/assets/fonts/montserrat-v15-latin-300.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/montserrat-v15-latin-500.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/montserrat-v15-latin-700.woff2" as="font" type="font/woff2" crossorigin>
+
+  <link rel="preload" href="/assets/fonts/roboto-v20-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/roboto-v20-latin-500.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/roboto-v20-latin-700.woff2" as="font" type="font/woff2" crossorigin>
+
   <link href="./css/styles.css" rel="stylesheet" crossorigin="anonymous">
   <title>Hello, world!</title>
 </head>
