@@ -1,0 +1,25 @@
+/* Main Rules BEGIN */
+.idea/
+.well-known/
+Thumbs.db
+.DS_Store
+._.DS_Store
+web.config
+/cgi-bin/*
+/node_modules
+/* Main relues END*/
+
+/* Bitrix BEGIN */
+/bitrix/
+/upload/
+/* Bitrix END */
+
+/* Devs & Local BEGIN */
+/local/vendor/
+/vendor/
+/local/modules/sprint.migration/
+/dev-test/
+.sass-cache
+node_modules
+.env
+/* Devs & Local END */
